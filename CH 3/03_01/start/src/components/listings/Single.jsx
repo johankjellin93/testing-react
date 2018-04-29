@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Single = ({}) => {
+const Single = ({item}) => {
   return (
     <li className="col l6 s12">
       <div className="card">
